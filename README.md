@@ -19,7 +19,7 @@ Open `proposal.md` first for the policy brief, then read `reflection.md` for the
 
 ## Word counts
 
-- Policy proposal: **1,147 words**, including headings and tables but excluding the reference list.
+- Policy proposal: **1,169 words**, including headings and tables but excluding the reference list.
 - AI-use reflection: **200 words**, excluding its heading.
 - README and references are outside the assessment word count.
 
@@ -27,7 +27,7 @@ The three program costs in the proposal are transparent policy estimates prepare
 
 ## Requirements checklist
 
-- [x] Specific agency and current Australian policy process
+- [x] Specific senior policy client and current Australian policy process stated at the top
 - [x] Analysis of employment, tasks, wages, job quality and industrial structure
 - [x] Distributional and equity analysis
 - [x] Three concrete and costed policy options

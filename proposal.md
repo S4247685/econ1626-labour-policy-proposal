@@ -1,7 +1,6 @@
 # Training Before Displacement: An AI Workforce Transition Pilot for Australia
 
-**To:** Australian Government Department of Employment and Workplace Relations (DEWR)  
-**Policy context:** Implementation of the Australian Government's March 2026 response to the *Future of Work: Inquiry into the Digital Transformation of Workplaces*, particularly its commitment to retraining and restructuring support for workers affected by AI.
+**To the First Assistant Secretary, Employment Strategy and Policy, Department of Employment and Workplace Relations (DEWR):** This brief informs DEWR's implementation of the Australian Government's March 2026 response to the *Future of Work: Inquiry into the Digital Transformation of Workplaces*, particularly its commitment to retraining and restructuring support for workers affected by AI.
 
 ## Executive summary
 
@@ -47,7 +46,7 @@ Provide up to $5,000 each for 20,000 workers, covering accredited course fees an
 
 ### Option 3: Workplace AI consultation and review standard
 
-Require consultation before AI materially changes tasks, monitoring or employment decisions, with human review of consequential decisions. Provide **$15 million over two years** for guidance, SME support and monitoring. Consultation is associated with better worker outcomes (Milanez 2023), but this option does not fund skills or training time.
+Target medium and large employers introducing AI that materially changes tasks, monitoring or employment decisions. Require worker consultation and human review of consequential decisions. Provide **$15 million over two years** to develop guidance, monitor compliance and fund advisory support for approximately 5,000 SMEs. Consultation is associated with better worker outcomes (Milanez 2023), but this option does not fund skills or training time.
 
 | Option | Efficiency | Equity | Feasibility | Fiscal cost | Overall assessment |
 |---|---|---|---|---:|---|
