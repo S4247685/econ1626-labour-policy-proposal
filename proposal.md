@@ -74,4 +74,18 @@ Key performance indicators should be: at least 80 per cent training completion; 
 
 ## References
 
-_References pending._
+Acemoglu, D & Restrepo, P 2019, 'Automation and new tasks: How technology displaces and reinstates labor', *Journal of Economic Perspectives*, vol. 33, no. 2, pp. 3–30, viewed 27 September 2026, <https://doi.org/10.1257/jep.33.2.3>.
+
+Australian Government 2026, *Australian Government response to the House of Representatives Standing Committee on Employment, Education and Training report: The Future of Work: Inquiry into the Digital Transformation of Workplaces*, Department of Employment and Workplace Relations, Canberra, viewed 27 September 2026, <https://www.dewr.gov.au/download/17536/australian-government-response-house-representatives-standing-committee-employment-education-and/42441/australian-government-response-house-representatives-standing-committee-employment-education-and/pdf>.
+
+Brynjolfsson, E, Li, D & Raymond, LR 2025, 'Generative AI at work', *The Quarterly Journal of Economics*, vol. 140, no. 2, pp. 889–942, viewed 27 September 2026, <https://doi.org/10.1093/qje/qjae044>.
+
+Department of Employment and Workplace Relations (DEWR) 2025, *National Skills Plan 2025–26 update*, Australian Government, viewed 27 September 2026, <https://www.dewr.gov.au/resources/national-skills-agreement>.
+
+Department of Employment and Workplace Relations (DEWR) 2026, *AI and employment in Australia: Monitoring framework and evidence to date*, Australian Government, Canberra, viewed 27 September 2026, <https://www.dewr.gov.au/download/17666/ai-and-employment-australia/43205/ai-and-employment-australia/pdf>.
+
+Federal Employment Agency n.d., *Qualifizierungsgeld*, Federal Republic of Germany, viewed 27 September 2026, <https://www.arbeitsagentur.de/en/node/8777>.
+
+Jobs and Skills Australia (JSA) 2025, *Our Gen AI transition: Implications for work and skills*, Australian Government, viewed 27 September 2026, <https://www.jobsandskills.gov.au/download/19803/our-gen-ai-transition-implications-work-and-skills/3364/our-gen-ai-transition/pdf>.
+
+Milanez, A 2023, *The impact of AI on the workplace: Evidence from OECD case studies of AI implementation*, OECD Social, Employment and Migration Working Papers, no. 289, OECD Publishing, Paris, viewed 27 September 2026, <https://doi.org/10.1787/2247ce58-en>.
