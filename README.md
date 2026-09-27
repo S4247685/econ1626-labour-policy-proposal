@@ -17,3 +17,23 @@ The proposal is anchored in the Australian Government's March 2026 response to t
 
 Open `proposal.md` first for the policy brief, then read `reflection.md` for the AI-use reflection. References use RMIT Harvard style and include links to the original sources.
 
+## Word counts
+
+- Policy proposal: **1,147 words**, including headings and tables but excluding the reference list.
+- AI-use reflection: **200 words**, excluding its heading.
+- README and references are outside the assessment word count.
+
+The three program costs in the proposal are transparent policy estimates prepared for option comparison. They are not existing Australian Government commitments.
+
+## Requirements checklist
+
+- [x] Specific agency and current Australian policy process
+- [x] Analysis of employment, tasks, wages, job quality and industrial structure
+- [x] Distributional and equity analysis
+- [x] Three concrete and costed policy options
+- [x] Evaluation against efficiency, equity, feasibility and fiscal cost
+- [x] Recommended package with responsibilities, timeline and KPIs
+- [x] Risks and mitigations
+- [x] RMIT Harvard in-text citations and reference list
+- [x] Separate 200-word AI-use reflection
+- [x] At least five meaningful Git commits
