@@ -35,15 +35,42 @@ Exposure is concentrated in routine cognitive work such as clerical and administ
 
 ## Policy options and evaluation
 
-_Draft pending._
+The options are assessed against **efficiency** (whether support improves adjustment and productivity), **equity** (whether exposed and disadvantaged workers benefit), **feasibility** (delivery through existing institutions), and **Commonwealth fiscal cost**.
+
+### Option 1: Individual AI transition accounts
+
+Provide 25,000 workers in high-exposure occupations with accounts worth up to $4,000 for approved training. Including $10 million for administration, the two-year cost would be **$110 million**. Accounts increase worker choice and remain available when an employer will not invest. However, individuals may select generic courses that do not lead to redesigned jobs, while workers with less time or information may participate least.
+
+### Option 2: Employer-supported training and redeployment pilot
+
+Provide up to $5,000 each for 20,000 existing workers, covering accredited course fees and part of wages during training. Employers would contribute at least 25 per cent of training costs, consult workers, and submit a task-redesign and redeployment plan. The Commonwealth cost would be **$115 million**: $100 million in subsidies, $10 million for delivery and administration, and $5 million for independent evaluation. Germany's *Qualifizierungsgeld* provides a relevant precedent by replacing 60 per cent of net pay lost during qualifying training, or 67 per cent for workers with a child (Federal Employment Agency 2026). The Australian pilot is smaller and capped, limiting fiscal exposure.
+
+### Option 3: Workplace AI consultation and review standard
+
+Require employers to notify and consult workers before AI materially changes tasks, monitoring or employment decisions, and provide human review of consequential decisions. Allow **$15 million over two years** for DEWR and the Fair Work Ombudsman to develop guidance, support SMEs, monitor compliance and evaluate outcomes. This option improves accountability at relatively low public cost, and OECD evidence associates consultation with better worker outcomes (Milanez 2023). It does not, however, pay for skills development or the time required to train.
+
+| Option | Efficiency | Equity | Feasibility | Fiscal cost | Overall assessment |
+|---|---|---|---|---:|---|
+| 1. Individual accounts | Medium | Medium–high | High | $110m | Flexible, but weak connection to jobs |
+| 2. Employer-supported pilot | High | High with access safeguards | High | $115m | Best balance of adjustment and productivity |
+| 3. Consultation standard | Medium | High | Medium | $15m | Important protection, but insufficient alone |
 
 ## Recommended package and implementation
 
-_Draft pending._
+DEWR should implement **Option 2**, with worker consultation as a funding condition rather than immediately legislating all of Option 3. This package targets the current problem: changing tasks and uneven adjustment, not demonstrated mass unemployment.
+
+| Timing | Action and responsibility |
+|---|---|
+| Months 0–3 | DEWR designs eligibility with JSA, Jobs and Skills Councils, states, unions, employer groups and TAFEs. JSA uses occupation exposure and labour-market data to identify priority roles. |
+| Months 4–9 | Launch 5,000 places across clerical and administrative work and two additional high-exposure sectors. Reserve at least 40 per cent of places for SMEs and set participation targets for priority cohorts and regional workers. |
+| Months 10–24 | Expand to 20,000 places if early completion and employer-quality thresholds are met. Registered providers deliver training; employers report task, retention and wage outcomes. |
+| Months 18–24 | An independent evaluator compares participants with similar non-participants. DEWR publishes results and recommends expansion, redesign or closure. |
+
+Key performance indicators should be: at least 80 per cent training completion; at least 75 per cent retained or redeployed with the same employer after 12 months; median real wages no lower 12 months after entry; improved worker-reported capability and job quality; SME and priority-cohort participation meeting reserved shares; and a measurable productivity improvement reported by participating firms. Publication of subgroup outcomes will show whether average success conceals unequal results.
 
 ## Risks and mitigations
 
-_Draft pending._
+**Deadweight cost:** firms may claim support for training they would have funded. Require evidence of material AI-related task change, a 25 per cent employer contribution and no pre-existing training commitment. **Low-quality training:** restrict funding to registered providers and courses mapped to a documented redesign plan. **Subsidised restructuring followed by redundancy:** require six-month retention or repayment, while allowing exceptions for genuine business failure. **Large-firm capture:** reserve 40 per cent of places for SMEs and monitor regional and cohort access. **Technology uncertainty:** use staged funding and update eligibility with DEWR's monitoring framework. **Work intensification:** require confidential worker feedback and consultation on workload, monitoring and job quality before the final employer payment.
 
 ## References
 
